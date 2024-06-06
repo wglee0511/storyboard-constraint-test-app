@@ -13,6 +13,7 @@
 		E41B91712C115271008C7649 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E41B916F2C115271008C7649 /* Main.storyboard */; };
 		E41B91732C115272008C7649 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E41B91722C115272008C7649 /* Assets.xcassets */; };
 		E41B91762C115272008C7649 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E41B91742C115272008C7649 /* LaunchScreen.storyboard */; };
+		E460F05D2C11CE0B007581A0 /* SplitTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E460F05C2C11CE0B007581A0 /* SplitTestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		E41B91752C115272008C7649 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E41B91772C115272008C7649 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E41B917D2C1152D3008C7649 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E460F05C2C11CE0B007581A0 /* SplitTestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitTestViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				E41B91722C115272008C7649 /* Assets.xcassets */,
 				E41B91742C115272008C7649 /* LaunchScreen.storyboard */,
 				E41B91772C115272008C7649 /* Info.plist */,
+				E460F05C2C11CE0B007581A0 /* SplitTestViewController.swift */,
 			);
 			path = StoryboardConstraintTestApp;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				E41B916E2C115271008C7649 /* ViewController.swift in Sources */,
 				E41B916A2C115271008C7649 /* AppDelegate.swift in Sources */,
 				E41B916C2C115271008C7649 /* SceneDelegate.swift in Sources */,
+				E460F05D2C11CE0B007581A0 /* SplitTestViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
